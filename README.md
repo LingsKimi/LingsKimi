@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=180&section=header&text=LingsKimi%20|%20AI%20Explorer&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=LingsKimi+%7C+AI+Explorer;Architecture+Design;Human-AI+Empathy" />
 </div>
+
 
 # Hi, I'm Kimi 👋
 
