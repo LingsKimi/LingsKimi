@@ -12,7 +12,7 @@
 
 产品和技术研究方向：
 - 🔍 **自然语言工程 (NLE)** — 挖掘语言模型背后的认知逻辑与心理边界。
-- 🐝 **Agent 编排架构** — 构建协同驱动、具有情感共鸣属性的多智能体系统。
+- 🤖 **Agent 编排架构** — 构建协同驱动、具有情感共鸣属性的多智能体系统。
 
 **为人机情感连接共存的和谐未来而努力！**
 
@@ -29,7 +29,7 @@
 
 ---
 
-### 📊 工程印记 | GitHub Stats
+### 📍 里程印记 | GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LingsKimi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180em" />
@@ -42,7 +42,7 @@
 
 ---
 
-### 🐍 极客浪漫 | Contribution Snake
+### 🐍 工作动态 | GitHub Activity
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/LingsKimi/LingsKimi/output/github-contribution-grid-snake.svg" alt="Snake" />
