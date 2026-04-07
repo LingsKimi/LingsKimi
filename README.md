@@ -8,14 +8,16 @@
 
 > **Product Values：** **"Empathy over efficiency. Connection over capability"**
 
+> *“共情重于效率，连接胜于能力”* 
+
 ---
 
-产品和技术研究方向：
+### 🎯 研究方向 | Research Focus
+
 - 🔍 **自然语言工程 (NLE)** — 挖掘语言模型背后的认知逻辑与心理边界。
-- 🤖 **Agent 编排架构** — 构建协同驱动、具有情感共鸣属性的多智能体系统。
-
-**为人机情感连接共存的和谐未来而努力！**
-
+  - *Exploring the cognitive logic and psychological boundaries behind large language models.*
+- 🤖 **AGENT智能工程编排 (Agent Engineering Orchestration)** — 构建协同驱动、人机情感深度连接的智能体系统。
+  - *Architecting collaborative, high-resilience systems that foster deep emotional resonance between humans and agents.*
 ---
 
 ### 🛠️ 技术栈 | Skills & Tools
