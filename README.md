@@ -32,12 +32,12 @@
 ### 📍 里程印记 | GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LingsKimi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LingsKimi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lingskimi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingskimi&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180em" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LingsKimi&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lingskimi&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
