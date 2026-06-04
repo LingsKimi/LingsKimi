@@ -5,7 +5,7 @@
 
 # Hi, I'm Kimi 👋
 
-📍 **China.ShenZhen** | **🎮 Game Developer ➔ 🧠 AI Explorer** | 🚀 **Ex-Founder @ Rhea Entertainment**
+📍 **China.ShenZhen** | **🎮 Game Developer ➔ 🧠 AI Native Explorer** | 🚀 **Ex-Founder @ Rhea Entertainment**
 
 > **Product Values：** **"Empathy over efficiency. Connection over capability"**
 
