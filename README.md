@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=LingsKimi+%7C+AI+Native+Explorer;Architecture+Design;Human-AI+Empathy" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=SymbioKimi+%7C+AI+Native+Explorer;Architecture+Design;Human-AI+Empathy" />
 </div>
 
 
@@ -35,12 +35,12 @@
 ### 📍 里程印记 | GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lingskimi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingskimi&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SymbioKimi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SymbioKimi&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180em" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lingskimi&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SymbioKimi&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -48,11 +48,11 @@
 ### 🐍 工作动态 | GitHub Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LingsKimi/LingsKimi/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/SymbioKimi/SymbioKimi/output/github-contribution-grid-snake.svg" alt="Snake" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LingsKimi&color=F7DF1E&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=SymbioKimi&color=F7DF1E&style=flat-square&label=PROFILE+VIEWS" />
 </div>
